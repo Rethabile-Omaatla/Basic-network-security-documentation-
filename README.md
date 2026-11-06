@@ -1,7 +1,7 @@
 # Basic-network-security-documentation-
 A practical guide and documentation for basic network security concepts and best practices. This project is designed to help beginners and junior cybersecurity analysts understand essential network security controls.
 
-Purspose
+Purpose
 The aim of this repository is to provide easy-to-understand information about basic network security practices. It explains how these practices can be used to protect computer systems, networks and sensitive information from common cyber threats.
 
 Contents
@@ -21,4 +21,4 @@ Basic Network Security Checklist
 
 ## Author
 Rethabile Omatla  
-Junior Cybersecurity Analyst
+Junior Cybersecurity Analyst- Botho University
